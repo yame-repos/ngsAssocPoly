@@ -1,0 +1,2 @@
+KX-F1.vcf.gz filter=lfs diff=lfs merge=lfs -text
+X18-S1.vcf.gz filter=lfs diff=lfs merge=lfs -text

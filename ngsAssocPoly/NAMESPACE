@@ -1,0 +1,6 @@
+export(alleleDosageEstimation, alleleDosageGLM)
+import(vcfR, qqman, RColorBrewer)
+importFrom("grDevices", "dev.off", "jpeg")
+importFrom("graphics", "abline", "axis", "lines", "par", "plot","points")
+importFrom("utils", "read.csv", "write.csv")
+importFrom("stats", "binomial", "dbinom", "gaussian", "pf", "var", "glm")

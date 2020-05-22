@@ -4,8 +4,8 @@ The main objective of the study was to performe genetic mapping in polyploids us
 
 The following files are included with this distribution.
 
-  - For Windows:   		ngsAssocPoly_1.0.0.zip
-  - For MacOS and Linux:	ngsAssocPoly_1.0.0.tgz
+  - For Windows:   		ngsAssocPoly_1.0.1.zip
+  - For MacOS and Linux:	ngsAssocPoly_1.0.1.tgz
   - Reference manual:	ngsAssocPoly_manual.pdf
   - ddRAD-seq data:	KX-F1.vcf.gz, X18-S1.vcf.gz
   - Phenotype data: KX-F1_Pheno.csv, X18-S1_Pheno.csv

@@ -146,7 +146,7 @@ The association test is performed like
 ``` r
 alleleDosageGLM(Geno.name = "KX-F1_Geno.rda",
                 Map.name = "KX-F1_Map.rda",
-                pheno.file.name = "KX-F1_Pheno.csv")
+                Pheno.file.name = "KX-F1_Pheno.csv")
 ```
 
 The products are

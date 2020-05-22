@@ -1,0 +1,14 @@
+Package: ngsAssocPoly
+Type: Package
+Title: Association analysis using NGS-genotyping data in autopolyploids
+Version: 1.0.1
+Author: Eiji Yamamoto
+Maintainer: Eiji Yamamoto <yame.repos@gmail.com>
+Description: Tools for genetic mapping in autopolyploids using low-coverage NGS genotyping data.
+    Allele dosage of genetic mapping populations are estimated using read count information in NGS genotype data.
+    Association between the estimated allele dosage and phenotypes are analyzed using generalized linear regression models (GLM).
+Imports: utils, graphics, grDevices, vcfR, qqman, RColorBrewer
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0

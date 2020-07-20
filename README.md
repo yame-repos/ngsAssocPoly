@@ -13,9 +13,9 @@ The following files are included with this distribution.
 
 <!-- end list -->
 
-* vaersion 1.0.2 has been deleted due to serious malfunctions in function "alleleDosageGLM.R"
+"vaersion 1.0.2 has been deleted due to serious malfunctions in function alleleDosageGLM.R"
   - failure in generating qq and Manhattan plots
-  - erroneous p-value calculation in "alleleDosageGLM.R" with method = "diploidized"
+  - erroneous p-value calculation in alleleDosageGLM with method = "diploidized"
 
 
 <!-- end list -->
